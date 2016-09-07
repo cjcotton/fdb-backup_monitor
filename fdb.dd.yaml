@@ -1,0 +1,4 @@
+---
+datadog:
+  api_key: "key"
+  app_key: "key"
